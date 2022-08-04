@@ -1,0 +1,11 @@
+open(): open a disk file reading
+readline(): reads single line from an opened line
+close(): closes opened file
+split(): break a string into a list of parts
+ValueError: data does not conform to an expected format; i.e. all lines with colon
+IOError: data cannot be accessed properly; i.e. file is removed/renamed
+help(): provides access to BIF in Python documentation
+find(): locates specific substring within another string
+not: negates a condition
+try/except: exception handling mechanism protecting code from runtime errors
+pass: null statement; does nothing

@@ -6,6 +6,6 @@ setup(
     py_modules=['nester'],
     author='mar',
     author_email='marpythontest@gmail.com',
-    url='',
+    url='https://github.com/sensodyne33/nester',
     description='A simple printer of nested lists',
 )
